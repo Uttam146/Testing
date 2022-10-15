@@ -1,0 +1,2 @@
+const calculateBiggerResult = require('./dependent');
+
